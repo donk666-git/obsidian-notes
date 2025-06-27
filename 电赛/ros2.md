@@ -67,5 +67,7 @@ $ ros2 topic list
 ```
 想看哪个话题的具体信息
 ```
-
+$ ros2 topic echo /.../...
 ```
+### 发布话题信息|发布服务请求|发布动作目标|录制控制命令
+[ROS2命令行操作 - 图书资源](https://book.guyuehome.com/ROS2/1.%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84/1.4_ROS2%E5%91%BD%E4%BB%A4%E8%A1%8C%E6%93%8D%E4%BD%9C/#_6)
