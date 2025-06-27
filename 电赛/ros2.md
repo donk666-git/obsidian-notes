@@ -47,3 +47,12 @@ cssclasses:
 ROS2命令行的操作机制与Linux相同，不过所有操作都集成在一个ros2的总命令中，后边第一个参数表示不同的操作目的，比如node表示对节点的操作，topic表示对话题的操作，具体操作干什么，还可以在后边继续跟一系列参数内容。
 ### 运行节点程序
 想要运行ROS2中某个节点，我们可以使用ros2 run命令进行操作，例如我们要运行海龟仿真节点和键盘控制节点：
+```
+$ ros2 run turtlesim turtlesim_node 
+$ ros2 run turtlesim turtle_teleop_key
+```
+### 查看节点信息
+当前运行的ros系统中都有哪些节点？
+```
+$ ros2 node list
+```
