@@ -21,23 +21,8 @@
               "icon": "lucide-file",
               "title": "basic"
             }
-          },
-          {
-            "id": "0545cb83b3d18995",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "电赛/basic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "basic"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9c2d40a5d9cccb3b",
@@ -193,9 +178,19 @@
               "icon": "bot-message-square",
               "title": "Copilot Chat"
             }
+          },
+          {
+            "id": "eab7c26b0796936c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -209,10 +204,11 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e54fb46183a9fe9",
+  "active": "ab75b9958e669290",
   "lastOpenFiles": [
     "未命名.canvas",
     "电赛/basic.md",

@@ -2,6 +2,8 @@
 data: 2025-06-26
 tags:
   - demo
+aliases:
+  - my first note
 ---
 # 标题
 - -加空格
