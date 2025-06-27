@@ -56,3 +56,16 @@ $ ros2 run turtlesim turtle_teleop_key
 ```
 $ ros2 node list
 ```
+如果对某个节点感兴趣，可以用info子命令
+```
+$ ros2 node info /turtlesim
+```
+### 查看话题信息
+当前系统中都有哪些话题
+```
+$ ros2 topic list
+```
+想看哪个话题的具体信息
+```
+
+```
