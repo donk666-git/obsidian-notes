@@ -29,3 +29,13 @@ cssclasses:
 ![[Pasted image 20250627135508.png]]
 
 # 命令行
+## linux常见指令
+- cd
+	- cd ..    ；回退一步
+	- cd /    ；工作目录，相对应用
+	- cd ~/  ；绝对引用
+- pwd
+	- 此命令显示出当前工作目录的绝对路径
+- mkdir
+- ls
+- 
