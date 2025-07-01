@@ -8,7 +8,7 @@
   "linkStrippingBehaviour": "text",
   "highDPIDiagrams": true,
   "pandoc": "C:\\Users\\Zwk\\Downloads\\pandoc-3.7.0.2-windows-x86_64\\pandoc-3.7.0.2\\pandoc.exe",
-  "pdflatex": "\"C:\\Users\\Zwk\\Downloads\\basic-miktex-24.1-x64.exe\"",
+  "pdflatex": "C:\\Users\\Zwk\\AppData\\Local\\Programs\\MiKTeX",
   "outputFolder": null,
   "extraArguments": "",
   "exportFrom": "html"
