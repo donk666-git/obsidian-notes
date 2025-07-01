@@ -6,5 +6,13 @@
       ],
       "key": "Numpad1"
     }
+  ],
+  "markdown-importer:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
   ]
 }
