@@ -14,5 +14,13 @@
       ],
       "key": "P"
     }
+  ],
+  "obsidian-pandoc:pandoc-export-pdf": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad7"
+    }
   ]
 }
