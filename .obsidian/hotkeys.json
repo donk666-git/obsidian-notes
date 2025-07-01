@@ -22,5 +22,13 @@
       ],
       "key": "Numpad7"
     }
+  ],
+  "obsidian-pandoc:pandoc-export-docx": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad8"
+    }
   ]
 }
