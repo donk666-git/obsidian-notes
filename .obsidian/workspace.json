@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "电赛/核心概念.md",
+                "file": "电赛/深度学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "核心概念 的反向链接列表"
+              "title": "深度学习 的反向链接列表"
             }
           },
           {
@@ -222,8 +222,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -244,18 +243,19 @@
   },
   "active": "8bd6e10e66d9d703",
   "lastOpenFiles": [
+    "电赛/ros2.md",
+    "电赛/核心概念.md",
+    "电赛/深度学习.md",
+    "问题1.md",
     "深度学习.pdf",
     "电赛/重要命令.md",
-    "电赛/深度学习.md",
     "电赛/重要命令.pdf",
     "欢迎.md",
     "未命名.canvas",
     "py/py.md",
-    "电赛/核心概念.md",
     "电赛/basic.md",
     "电赛/ps画地图.md",
     "电赛/ros2.pdf",
-    "电赛/ros2.md",
     "py/~$py.docx",
     "py/py.docx",
     "py",
