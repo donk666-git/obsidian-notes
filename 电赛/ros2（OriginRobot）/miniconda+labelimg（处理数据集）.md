@@ -1,11 +1,36 @@
 **激活环境**
 
-- 创建完成后，使用以下命令进入（激活）这个新环境：
+- - **打开一个新的 "Anaconda Prompt"**
+    
+    - 从Windows的“开始”菜单中，找到并打开 "Anaconda Prompt (miniconda3)"。这是一个专门配置好的终端，比PowerShell更适合操作conda。
+        
+- **重建纯净环境（如果需要）** 为了确保万无一失，我们再操作一遍。
+    
+    PowerShell
+    
+    ```
+    conda deactivate
+    conda env remove -n label_env
+    conda create -n label_env python=3.10
+    ```
+    
+    在每个提示处按 `y`。
+    
+- **激活环境**
     
     PowerShell
     
     ```
     conda activate label_env
+    ```
+    
+- **使用conda-forge渠道安装（最关键的一步）**
+    
+    PowerShell
+    
+    ```
+    conda install -c conda-forge labelimg
+    ```
     ```
 
 **运行LabelImg**
