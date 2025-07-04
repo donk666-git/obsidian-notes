@@ -17,7 +17,16 @@
     conda env remove -n label_env
     conda create -n label_env python=3.10
     ```
-    
+
+ **确保已退出之前的环境**
+conda deactivate
+
+ **创建一个指定python=3.8的新环境
+conda create -n label_golden python=3.8 -y
+
+ **激活这个“黄金”环境
+conda activate label_golden
+
     在每个提示处按 `y`。
     
 - **激活环境**
