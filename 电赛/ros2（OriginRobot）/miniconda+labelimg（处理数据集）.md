@@ -1,6 +1,6 @@
 **激活环境**
 
-- - **打开一个新的 "Anaconda Prompt"**
+- - **打开一个新的 "Anaconda Prompt"**（(base) C:\Users\Zwk>cd /d "D:\labelImg-master"）
     
     - 从Windows的“开始”菜单中，找到并打开 "Anaconda Prompt (miniconda3)"。这是一个专门配置好的终端，比PowerShell更适合操作conda。
         
