@@ -3,6 +3,32 @@
 wget https://mirrors.zju.edu.cn/anaconda/miniconda/Miniconda3-latest-Linux-x86_64.sh
 ```
 ```
+bash M
+```
+#### 先手动初始化 conda 环境（推荐）
+
+运行：
+复制编辑
+
+```
+~/miniconda3/bin/conda init bash
+````
+
+然后执行：
+复制编辑
+```
+source ~/.bashrc
+```
+
+
+之后 `conda` 命令就能正常使用了，试试：
+
+bash
+
+复制编辑
+
+`conda --version`
+```
 conda create -n yolov8 python=3.9 -y
 ```
 

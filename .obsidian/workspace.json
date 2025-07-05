@@ -79,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "9c2d40a5d9cccb3b",
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "电赛/ros2（OriginRobot）/wsl（可以用宿主机的gpu）.md",
+                "file": "电赛/ros2（OriginRobot）/模型准备、训练、部署、转换.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "wsl（可以用宿主机的gpu） 的反向链接列表"
+              "title": "模型准备、训练、部署、转换 的反向链接列表"
             }
           },
           {
@@ -270,15 +270,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d620803e753999a4",
+  "active": "31c87f05590564f8",
   "lastOpenFiles": [
+    "电赛/ros2（OriginRobot）/wsl（可以用宿主机的gpu）.md",
     "电赛/ros2（OriginRobot）/ros2.md",
     "电赛/ros2（OriginRobot）/创建数据集配置文件 (`.yaml`).md",
     "电赛/ros2（OriginRobot）/核心概念.md",
     "电赛/ros2（OriginRobot）/FFmpeg（命令行视频抽帧）.md",
     "电赛/ros2（OriginRobot）/模型准备、训练、部署、转换.md",
     "电赛/ros2（OriginRobot）/miniconda+labelimg（处理数据集）.md",
-    "电赛/ros2（OriginRobot）/wsl（可以用宿主机的gpu）.md",
     "电赛/ros2（OriginRobot）/模型训练参数解释：.md",
     "d8e2a10d2d4b3e0cba762b185cd1bb02_ 1.png",
     "d8e2a10d2d4b3e0cba762b185cd1bb02_.png",
