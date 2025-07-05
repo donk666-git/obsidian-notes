@@ -1,1 +1,6 @@
 ![[d8e2a10d2d4b3e0cba762b185cd1bb02_ 1.png]]
+
+```
+conda create -n yolo digits python=3.9 -y
+```
+
