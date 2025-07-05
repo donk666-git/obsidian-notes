@@ -11,3 +11,7 @@ conda activate yolov8 digits
 ```
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 ```
+安装yolov8
+```
+pip install ultralytics
+```
