@@ -15,3 +15,7 @@ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.o
 ```
 pip install ultralytics
 ```
+安装labelimg
+```
+pip install labelimg
+```
