@@ -5,7 +5,7 @@ conda create -n yolov8 python=3.9 -y
 ```
 
 ```
-conda activate yolov8 digits
+conda activate yolov8
 ```
 
 ```
