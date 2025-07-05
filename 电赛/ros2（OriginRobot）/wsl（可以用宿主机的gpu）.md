@@ -1,5 +1,7 @@
 ![[d8e2a10d2d4b3e0cba762b185cd1bb02_ 1.png]]
-
+```
+wget https://mirrors.zju.edu.cn/anaconda/miniconda/Miniconda3-latest-Linux-x86_64.sh
+```
 ```
 conda create -n yolov8 python=3.9 -y
 ```
