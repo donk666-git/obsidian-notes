@@ -29,7 +29,7 @@ cssclasses:
 ![[Pasted image 20250627135508.png]]
 
 # 命令行
-## linux常见指令
+## [[linux常见指令]]
 - cd
 	- cd ..    ；回退一步
 	- cd /    ；工作目录，相对应用
