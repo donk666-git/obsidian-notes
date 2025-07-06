@@ -13,4 +13,4 @@ grep "resolve.sh" ./resolve_all.sh
 		grep -v   显示不包含该字符串的行（反向匹配）
 		grep -r "resolve.sh" ./scripts/    会在 `scripts/` 目录下所有文件中查找
 		grep -l "resolve.sh" *.sh   只列出含有 `resolve.sh` 的 `.sh` 文件名
-		grep -x   
+		grep -x   只匹配整个行正好是 `resolve.sh` 的情况，其他部分多一个字符都不匹配
