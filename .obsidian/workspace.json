@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "py/py-语法.md",
+                "file": "py/常用数据结构/列表.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "py-语法"
+              "title": "列表"
             }
           },
           {
@@ -272,8 +272,8 @@
   },
   "active": "f63bdab229143fa8",
   "lastOpenFiles": [
-    "py/常用数据结构/列表.md",
     "py/py-语法.md",
+    "py/常用数据结构/列表.md",
     "py/常用数据结构",
     "电赛/ros2（OriginRobot）/wsl.md",
     "电赛/ros2（OriginRobot）/wsl（可以用宿主机的gpu）.md",
