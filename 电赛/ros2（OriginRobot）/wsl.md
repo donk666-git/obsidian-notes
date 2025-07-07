@@ -13,3 +13,7 @@ wsl --list --verbose
 wsl --unregister Ubuntu
 ```
 
+## 下载
+```
+sudo apt-get update
+```
