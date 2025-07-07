@@ -1,3 +1,114 @@
+#### **创建“完美”的Docker环境**
+
+这个步骤将创建一个包含正确Python版本(3.10)的、干净的Ubuntu 20.04环境。
+
+1. **确保您在 `~/horizon_oe_project` 目录下。**
+    
+2. **创建新的、正确的 `Dockerfile`**。请将以下**全部内容**一次性复制并粘贴到您的终端中，然后按回车。它会覆盖掉旧的Dockerfile文件。
+    
+    Bash
+    
+    ```
+    cat <<EOF > Dockerfile
+    # 使用标准的、x86架构的Ubuntu 20.04作为基础
+    FROM ubuntu:20.04
+    
+    # 设置环境变量，防止安装过程中断
+    ENV DEBIAN_FRONTEND=noninteractive
+    
+    # 更新并安装基础工具，以及添加PPA所需的工具
+    RUN apt-get update && apt-get install -y \
+        software-properties-common \
+        build-essential \
+        sudo \
+        git \
+        curl \
+        && rm -rf /var/lib/apt/lists/*
+    
+    # 添加deadsnakes PPA，这是一个提供新版本Python的可靠软件源
+    RUN add-apt-repository ppa:deadsnakes/ppa
+    
+    # 现在，从新的PPA中安装Python 3.10
+    RUN apt-get update && apt-get install -y \
+        python3.10 \
+        python3.10-venv \
+        python3.10-dev \
+        python3-pip
+    
+    # 将系统默认的 python3 命令指向我们新安装的 python3.10
+    RUN update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.10 1
+    
+    # 设置默认启动命令
+    CMD ["/bin/bash"]
+    EOF
+    ```
+    
+3. **构建这个“完美”的镜像**。
+    
+    Bash
+    
+    ```
+    docker build -t my-horizon-env-py310 .
+    ```
+    
+
+#### **C. 启动容器并一站式完成所有安装**
+
+1. **启动容器**，并把您当前的项目文件夹共享进去。
+    
+    Bash
+    
+    ```
+    docker run -it --gpus all --name oe_final_workspace -v "$(pwd)":/workspace my-horizon-env-py310 bash
+    ```
+    
+    **注意**：运行此命令后，您的终端会进入到一个以`root@...`开头的**全新环境**中。
+    
+2. **在容器内，一次性完成所有安装**。请将以下**所有命令**一次性复制并粘贴到**容器的终端**里。
+    
+    Bash
+    
+    ```
+    # 进入共享目录下的主安装文件夹
+    cd /workspace/horizon_x5_open_explorer_v1.2.8-py310_20240926/
+    
+    # 修正脚本的已知bug
+    sed -i '1c\#!/bin/bash' ./resolve_all.sh
+    sed -i '1c\#!/bin/bash' ./package/host/resolve.sh
+    sed -i 's|sh -e ./package/host/resolve.sh|bash -e ./package/host/resolve.sh|' ./resolve_all.sh
+    
+    # 执行依赖下载
+    echo "========= 开始下载依赖... =========="
+    ./resolve_all.sh
+    
+    # 执行安装
+    echo "========= 开始安装工具链... =========="
+    cd package/host/
+    sudo ./install.sh
+    
+    echo "========= 安装完成！=========="
+    ```
+    
+3. **安装Python依赖库**。
+    
+    Bash
+    
+    ```
+    # 进入包含requirements.txt的目录
+    cd /workspace/horizon_x5_open_explorer_v1.2.8-py310_20240926/package/host/ai_toolchain/
+    
+    # 安装依赖
+    pip install -r requirements.txt
+    
+    # 如果pycocotools失败，用conda安装（但在此干净环境中pip通常会成功）
+    # 如果pip失败，取消下面这行的注释并运行：
+    # conda install -c conda-forge pycocotools -y
+    ```
+    
+
+---
+
+这个流程完成后，您就有了一个功能齐全、环境正确的工作站（在Docker里），并且它只占用了您主系统的一个文件夹共享空间，C盘的压力会小很多。
 这个教程将指导您完成以下所有步骤：
 
 1. 在您当前的WSL环境中，创建一个正确的Docker环境。
@@ -10,6 +121,7 @@
     
 
 ---
+
 
 ### **最终详细操作教程 (请按顺序复制粘贴)**
 
