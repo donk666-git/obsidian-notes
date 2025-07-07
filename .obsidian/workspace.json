@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "py/py.md",
+                "file": "py/py-语法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "py"
+              "title": "py-语法"
             }
           },
           {
@@ -272,6 +272,9 @@
   },
   "active": "f63bdab229143fa8",
   "lastOpenFiles": [
+    "py/常用数据结构/列表.md",
+    "py/py-语法.md",
+    "py/常用数据结构",
     "电赛/ros2（OriginRobot）/wsl.md",
     "电赛/ros2（OriginRobot）/wsl（可以用宿主机的gpu）.md",
     "电赛/ros2（OriginRobot）/清理.md",
@@ -281,7 +284,6 @@
     "电赛/ros2（OriginRobot）/未命名.md",
     "电赛/ros2（OriginRobot）/模型准备、训练、部署、转换.md",
     "电赛/ros2（OriginRobot）/创建数据集配置文件 (`.yaml`).md",
-    "py/py.md",
     "电赛/ros2（OriginRobot）/ros2.md",
     "电赛/ros2（OriginRobot）/basic.md",
     "电赛/ros2（OriginRobot）/核心概念.md",
@@ -305,14 +307,12 @@
     "电赛/ros2.pdf",
     "py/~$py.docx",
     "py/py.docx",
-    "py",
     "Pasted image 20250627135508.png",
     "Pasted image 20250627134033.png",
     "Pasted image 20250627133950.png",
     "未命名 3.md",
     "未命名 2.md",
     "电赛/基本信息.md",
-    "未命名 1.md",
-    "未命名.md"
+    "未命名 1.md"
   ]
 }

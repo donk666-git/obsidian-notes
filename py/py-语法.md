@@ -12,3 +12,7 @@ print(*objects, sep=' ', end='\n', file=sys.stdout, flush=False)
 
 - print('I love {0} and {1}'.format('bread','butter'))
 	花括号作为占位符，可以为空，可以为序列，也可以为关键字参数
+
+# 常用数据结构
+### [[列表]]
+
