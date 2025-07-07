@@ -17,3 +17,6 @@ wsl --unregister Ubuntu
 ```
 sudo apt-get update
 ```
+```
+sudo apt-get upgrade
+```
