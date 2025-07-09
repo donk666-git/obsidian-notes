@@ -6,7 +6,7 @@
       {
         "id": "2cdea593918221f1",
         "type": "tabs",
-        "dimension": 52.79187817258884,
+        "dimension": 54.21974522292994,
         "children": [
           {
             "id": "ab75b9958e669290",
@@ -84,7 +84,7 @@
       {
         "id": "9c2d40a5d9cccb3b",
         "type": "tabs",
-        "dimension": 47.20812182741117,
+        "dimension": 45.78025477707006,
         "children": [
           {
             "id": "d620803e753999a4",
@@ -272,6 +272,7 @@
   },
   "active": "f63bdab229143fa8",
   "lastOpenFiles": [
+    "Pasted image 20250709164704.png",
     "电赛/ros2（OriginRobot）/wsl.md",
     "电赛/stem32/STM32H750VBT6 CubeMX 配置指南.md",
     "电赛/ros2（OriginRobot）/未命名.md",
@@ -312,7 +313,6 @@
     "Pasted image 20250627134033.png",
     "Pasted image 20250627133950.png",
     "未命名 3.md",
-    "未命名 2.md",
-    "电赛/基本信息.md"
+    "未命名 2.md"
   ]
 }
