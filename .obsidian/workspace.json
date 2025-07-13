@@ -273,6 +273,7 @@
   "active": "f63bdab229143fa8",
   "lastOpenFiles": [
     "py/py-语法.md",
+    "py/常用数据结构/列表.md",
     "java/语法.md",
     "电赛/stem32/串口.md",
     "电赛/stem32/STM32H750VBT6 CubeMX 配置指南.md",
@@ -285,7 +286,6 @@
     "电赛/ros2（OriginRobot）/清理.md",
     "电赛/ros2（OriginRobot）/docker.md",
     "电赛/ros2（OriginRobot）/linux常见指令.md",
-    "py/常用数据结构/列表.md",
     "py/常用数据结构",
     "电赛/ros2（OriginRobot）/wsl（可以用宿主机的gpu）.md",
     "电赛/ros2（OriginRobot）/miniconda+labelimg（处理数据集）.md",
