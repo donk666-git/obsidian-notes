@@ -31,7 +31,7 @@ for elem in t1:
     print(elem)
 
 # 成员运算
-print(12 in t1)         # True
+prin t(12 in t1)         # True
 print(99 in t1)         # False
 print('Hao' not in t2)  # True
 
@@ -73,7 +73,8 @@ print(i, j, k)  # 1 10 100
 ```
 
 **解决变量个数少于元素的个数方法: *星号表达式
-
+	1.首先，用星号表达式修饰的变量会变成一个列表
+	2.
 ```
 a = 1, 10, 100, 1000
 i, j, *k = a
