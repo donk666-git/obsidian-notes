@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程注意事项/大三上.md",
+                "file": "py/常用数据结构/元组（tuple）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "大三上"
+              "title": "元组（tuple）"
             }
           },
           {
@@ -272,8 +272,10 @@
   },
   "active": "f63bdab229143fa8",
   "lastOpenFiles": [
+    "py/常用数据结构/列表（list）.md",
+    "py/常用数据结构/元组（tuple）.md",
+    "课程注意事项/大三上.md",
     "py/rich.md",
-    "py/常用数据结构/列表.md",
     "py/py-语法.md",
     "java/语法.md",
     "电赛/stem32/串口.md",
@@ -301,13 +303,11 @@
     "电赛/模拟电路",
     "电赛/stem32",
     "电赛/ros2（OriginRobot）",
-    "课程注意事项/大三上.md",
     "().md",
     "深度学习.pdf",
     "java",
     "电赛/重要命令.pdf",
     "问题1.md",
-    "欢迎.md",
     "未命名.canvas",
     "电赛/ros2.pdf",
     "py/~$py.docx",
