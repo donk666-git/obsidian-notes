@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "py/常用数据结构/列表.md",
+                "file": "课程注意事项/大三上.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "列表"
+              "title": "大三上"
             }
           },
           {
@@ -272,8 +272,9 @@
   },
   "active": "f63bdab229143fa8",
   "lastOpenFiles": [
-    "py/py-语法.md",
+    "py/rich.md",
     "py/常用数据结构/列表.md",
+    "py/py-语法.md",
     "java/语法.md",
     "电赛/stem32/串口.md",
     "电赛/stem32/STM32H750VBT6 CubeMX 配置指南.md",
@@ -313,7 +314,6 @@
     "py/py.docx",
     "Pasted image 20250627135508.png",
     "Pasted image 20250627134033.png",
-    "Pasted image 20250627133950.png",
-    "未命名 3.md"
+    "Pasted image 20250627133950.png"
   ]
 }
