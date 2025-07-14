@@ -44,3 +44,30 @@ print(t1 == t3)            # False
 print(t1 >= t3)            # False
 print(t1 <= (35, 11, 99))  # False
 ```
+
+*`()`表示空元组，但是如果元组中只有一个元素，需要加上一个逗号，否则`()`就不是代表元组的字面量语法，而是改变运算优先级的圆括号*
+```
+a = ()
+print(type(a))  # <class 'tuple'>
+b = ('hello')
+print(type(b))  # <class 'str'>
+c = (100)
+print(type(c))  # <class 'int'>
+d = ('hello', )
+print(type(d))  # <class 'tuple'>
+e = (100, )
+print(type(e))  # <class 'tuple'>
+```
+
+### 打包&解包
+1. 把多个用逗号分隔的值赋给一个变量时，多个值会打包成一个元组类型
+2. 把一个元组赋值给多个变量时，元组会解包成多个值然后分别赋给对应的变量
+```
+# 打包操作
+a = 1, 10, 100
+print(type(a))  # <class 'tuple'>
+print(a)        # (1, 10, 100)
+# 解包操作
+i, j, k = a
+print(i, j, k)  # 1 10 100
+```
