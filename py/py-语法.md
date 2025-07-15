@@ -19,22 +19,32 @@ print(*objects, sep=' ', end='\n', file=sys.stdout, flush=False)
 ### 格式化输出方式：
 
 #### 1. f-string（推荐，Python 3.6+）：
+
 `name = "老大" score = 99 print(f"{name} 的分数是 {score}")`
 #### 2. format 方法：
 
-python
-
-复制编辑
-
 `print("{} 的分数是 {}".format("老大", 99))`
-
 #### 3. 百分号格式（旧写法）：
 
-python
-
-复制编辑
-
 `print("%s 的分数是 %d" % ("老大", 99))`
+
+### 常用参数：
+
+#### 1. `sep`：分隔符（默认是空格）
+
+`print("2025", "07", "14", sep="-") # 输出：2025-07-14`
+
+#### 2. `end`：结尾符（默认是换行`\n`）
+
+`print("Loading", end="...") print("Done") # 输出：Loading...Done`
+
+#### 3. `file`：输出目标（默认是标准输出 `sys.stdout`，可以写入文件）
+
+`with open("log.txt", "w") as f:     print("写入日志", file=f)`
+
+#### 4. `flush`：是否立刻刷新缓冲区（默认是 False）
+
+`print("正在加载", end="", flush=True)`
 
 # 常用数据结构
 ### [[列表（list）]]

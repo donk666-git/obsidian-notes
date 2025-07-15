@@ -90,12 +90,14 @@
             "id": "f63bdab229143fa8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "md语法.pdf"
+                "file": "电赛/stem32/未命名.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "md语法"
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           }
         ],
@@ -269,11 +271,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8bd6e10e66d9d703",
+  "active": "f63bdab229143fa8",
   "lastOpenFiles": [
+    "md语法.pdf",
+    "电赛/stem32/未命名.md",
     "py/常用数据结构/元组（tuple）.md",
     "电赛/ros2（OriginRobot）/FFmpeg（命令行视频抽帧）.md",
-    "md语法.pdf",
     "py/常用数据结构/列表（list）.md",
     "课程注意事项/大三上.md",
     "py/rich.md",
@@ -303,7 +306,6 @@
     "电赛/模拟电路",
     "电赛/stem32",
     "电赛/ros2（OriginRobot）",
-    "().md",
     "深度学习.pdf",
     "java",
     "电赛/重要命令.pdf",
