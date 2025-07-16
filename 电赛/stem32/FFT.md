@@ -1,3 +1,7 @@
+### 好教程
+*STM32H7的DSP的FFT测试 https://blog.csdn.net/weixin_44229819/article/details/112802870
+
+
 ### 核心知识点梳理：
 
 **1. 从连续到离散的傅里叶变换：**
