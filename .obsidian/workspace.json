@@ -86,12 +86,14 @@
             "id": "f63bdab229143fa8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "md语法.pdf"
+                "file": "电赛/stem32/FFT.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "md语法"
+              "icon": "lucide-file",
+              "title": "FFT"
             }
           }
         ],
@@ -265,12 +267,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "31c87f05590564f8",
+  "active": "f63bdab229143fa8",
   "lastOpenFiles": [
+    "md语法.pdf",
     "电赛/stem32/FFT分析（示例程序）.md",
     "电赛/stem32/FFT（采集信号）.md",
     "电赛/stem32/FFT.md",
-    "md语法.pdf",
     "电赛/ros2（OriginRobot）/linux常见指令.md",
     "电赛/ros2（OriginRobot）/wsl（可以用宿主机的gpu）.md",
     "py/常用数据结构/元组（tuple）.md",
@@ -297,7 +299,6 @@
     "电赛/ros2（OriginRobot）/核心概念.md",
     "d8e2a10d2d4b3e0cba762b185cd1bb02_ 1.png",
     "d8e2a10d2d4b3e0cba762b185cd1bb02_.png",
-    "电赛/ros2（OriginRobot）/重要命令.md",
     "电赛/模拟电路",
     "电赛/stem32",
     "电赛/ros2（OriginRobot）",
