@@ -1,15 +1,14 @@
 {
   "main": {
-    "id": "a0062e567b20855c",
+    "id": "65f662b2d5c3f02d",
     "type": "split",
     "children": [
       {
-        "id": "2cdea593918221f1",
+        "id": "559ed210b281b414",
         "type": "tabs",
-        "dimension": 50.34876347495244,
         "children": [
           {
-            "id": "ab75b9958e669290",
+            "id": "8b1ade28452fe63b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -17,106 +16,27 @@
               "icon": "lucide-file",
               "title": "新标签页"
             }
-          },
-          {
-            "id": "8bd6e10e66d9d703",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "py/py-语法.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "py-语法"
-            }
-          },
-          {
-            "id": "31c87f05590564f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "电赛/stem32/FFT（采集信号）.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FFT（采集信号）"
-            }
-          },
-          {
-            "id": "8f07a005ce562ac8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "py/py.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "py"
-            }
           }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "9c2d40a5d9cccb3b",
-        "type": "tabs",
-        "dimension": 49.65123652504756,
-        "children": [
-          {
-            "id": "d620803e753999a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "电赛/ros2（OriginRobot）/wsl（可以用宿主机的gpu）.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "wsl（可以用宿主机的gpu）"
-            }
-          },
-          {
-            "id": "f63bdab229143fa8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "电赛/stem32/草稿.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "草稿"
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5c5782b4a5a3bf6c",
+    "id": "71453530a88c9750",
     "type": "split",
     "children": [
       {
-        "id": "2d98757cb361beb1",
+        "id": "d28f67e9992e88fd",
         "type": "tabs",
         "children": [
           {
-            "id": "3f4d6b8f108d1e84",
+            "id": "af363a451edd0e30",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -124,7 +44,7 @@
             }
           },
           {
-            "id": "6eb6fe5fe05eb46a",
+            "id": "ab5035709f0b492c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -141,7 +61,7 @@
             }
           },
           {
-            "id": "88ee1eb82f4ddb94",
+            "id": "fea709431dec1455",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -154,23 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 300
   },
   "right": {
-    "id": "d7c9c6b6c6082fb4",
+    "id": "f581df2a0266dc22",
     "type": "split",
     "children": [
       {
-        "id": "5aa126ef246d19a0",
+        "id": "eedb9f8bdee570a0",
         "type": "tabs",
         "children": [
           {
-            "id": "8386b5cbf13fb560",
+            "id": "4e26b8846d9ee9e7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "电赛/ros2（OriginRobot）/模型准备、训练、部署、转换.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "模型准备、训练、部署、转换 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
-            "id": "12e678a0a163d124",
+            "id": "650ff27daebae483",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "电赛/核心概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "核心概念 的出链列表"
+              "title": "出链"
             }
           },
           {
-            "id": "5dd72d23e6a24a40",
+            "id": "760dd889459b8180",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -213,104 +131,41 @@
             }
           },
           {
-            "id": "5e54fb46183a9fe9",
+            "id": "b748b053510d6067",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "电赛/basic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "basic 的大纲"
-            }
-          },
-          {
-            "id": "b8db206fa5ab8c1a",
-            "type": "leaf",
-            "state": {
-              "type": "github-copilot-chat-view",
-              "state": {},
-              "icon": "bot-message-square",
-              "title": "Copilot Chat"
-            }
-          },
-          {
-            "id": "eab7c26b0796936c",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "大纲"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 381.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:打开 Markdown 格式转换器": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
       "workspaces:管理工作区布局": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "31c87f05590564f8",
+  "active": "af363a451edd0e30",
   "lastOpenFiles": [
-    "电赛/stem32/草稿.md",
-    "电赛/stem32/FFT.md",
-    "md语法.pdf",
-    "电赛/stem32/FFT分析（示例程序）.md",
-    "电赛/stem32/FFT（采集信号）.md",
-    "电赛/ros2（OriginRobot）/linux常见指令.md",
-    "电赛/ros2（OriginRobot）/wsl（可以用宿主机的gpu）.md",
-    "py/常用数据结构/元组（tuple）.md",
-    "电赛/ros2（OriginRobot）/FFmpeg（命令行视频抽帧）.md",
-    "py/常用数据结构/列表（list）.md",
-    "课程注意事项/大三上.md",
-    "py/rich.md",
-    "py/py-语法.md",
-    "java/语法.md",
-    "电赛/stem32/串口.md",
-    "电赛/stem32/STM32H750VBT6 CubeMX 配置指南.md",
-    "Pasted image 20250709164704.png",
-    "电赛/ros2（OriginRobot）/wsl.md",
-    "电赛/ros2（OriginRobot）/未命名.md",
-    "电赛/ros2（OriginRobot）/创建数据集配置文件 (`.yaml`).md",
-    "电赛/ros2（OriginRobot）/模型训练参数解释：.md",
-    "电赛/ros2（OriginRobot）/清理.md",
-    "电赛/ros2（OriginRobot）/docker.md",
-    "py/常用数据结构",
-    "电赛/ros2（OriginRobot）/miniconda+labelimg（处理数据集）.md",
-    "电赛/ros2（OriginRobot）/模型准备、训练、部署、转换.md",
-    "电赛/ros2（OriginRobot）/ros2.md",
-    "电赛/ros2（OriginRobot）/basic.md",
-    "电赛/ros2（OriginRobot）/核心概念.md",
-    "d8e2a10d2d4b3e0cba762b185cd1bb02_ 1.png",
-    "d8e2a10d2d4b3e0cba762b185cd1bb02_.png",
-    "电赛/模拟电路",
-    "电赛/stem32",
-    "电赛/ros2（OriginRobot）",
-    "深度学习.pdf",
-    "java",
-    "电赛/重要命令.pdf",
-    "未命名.canvas",
-    "电赛/ros2.pdf",
-    "py/~$py.docx",
-    "Pasted image 20250627135508.png",
-    "Pasted image 20250627134033.png",
-    "Pasted image 20250627133950.png"
+    "电赛/未命名"
   ]
 }
