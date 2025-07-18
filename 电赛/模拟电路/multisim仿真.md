@@ -4,3 +4,5 @@ ctrl+w 元器件
 - 
 
 例题![[Pasted image 20250718135741.png]]
+滑动变阻器是Potentiometer
+变阻器是resistor
