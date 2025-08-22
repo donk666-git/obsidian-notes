@@ -37,9 +37,21 @@
               "icon": "lucide-file",
               "title": "未命名"
             }
+          },
+          {
+            "id": "0577bd0479609255",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.9.10"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,6 +201,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -200,7 +213,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3148b52cda9eebdb",
+  "active": "0577bd0479609255",
   "lastOpenFiles": [
     "Pasted image 20250822104420.png",
     "Pasted image 20250822103947.png",
