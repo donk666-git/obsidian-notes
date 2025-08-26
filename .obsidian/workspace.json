@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大三上/区块链.md",
+                "file": "大三上/区块链/分工.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "区块链"
+              "title": "分工"
             }
           }
         ],
@@ -203,8 +203,10 @@
   },
   "active": "3148b52cda9eebdb",
   "lastOpenFiles": [
+    "大三上/区块链/区块链.md",
+    "大三上/区块链/分工.md",
+    "大三上/区块链",
     "大三上/电路综合创新实践/嘉立创eda.md",
-    "大三上/区块链.md",
     "Pasted image 20250824153550.png",
     "大三上/电路综合创新实践/未命名.md",
     "Pasted image 20250822104420.png",
