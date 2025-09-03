@@ -37,9 +37,21 @@
               "icon": "lucide-file",
               "title": "区块链"
             }
+          },
+          {
+            "id": "54e8fbb545a53e80",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.9.12"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,7 +213,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3148b52cda9eebdb",
+  "active": "54e8fbb545a53e80",
   "lastOpenFiles": [
     "大三上/区块链/分工.md",
     "大三上/区块链/区块链.md",
