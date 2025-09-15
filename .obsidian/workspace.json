@@ -11,12 +11,14 @@
             "id": "5db5cc342b4ef18b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "深度学习.pdf"
+                "file": "电赛/ros2（OriginRobot）/basic.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "深度学习"
+              "icon": "lucide-file",
+              "title": "basic"
             }
           }
         ]
@@ -183,6 +185,7 @@
   },
   "active": "5db5cc342b4ef18b",
   "lastOpenFiles": [
+    "深度学习.pdf",
     "电赛/ros2（OriginRobot）/创建数据集配置文件 (`.yaml`).md",
     "srtp/计划.md",
     "电赛/ros2（OriginRobot）/模型准备、训练、部署、转换.md",
@@ -198,7 +201,6 @@
     "大三上/区块链/分工.md",
     "search/google.md",
     "欢迎.md",
-    "深度学习.pdf",
     "powershell.md",
     "未命名.canvas",
     "search",
@@ -228,7 +230,6 @@
     "电赛/stem32/E题数字化语音存储与回放系统.md",
     "电赛/stem32/串口.md",
     "电赛/stem32/草稿.md",
-    "电赛/方案.md",
     "电赛/TI"
   ]
 }
