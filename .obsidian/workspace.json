@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大三上/bsp/作业.md",
+                "file": "大三上/bsp/chapter0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "作业"
+              "title": "chapter0"
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "5db5cc342b4ef18b",
   "lastOpenFiles": [
-    "大三上/区块链/区块链.md",
     "大三上/bsp/作业.md",
+    "大三上/bsp/chapter0.md",
+    "大三上/区块链/区块链.md",
     "大三上/bsp",
     "大三上/区块链/分工.md",
     "search/google.md",
