@@ -11,14 +11,12 @@
             "id": "5db5cc342b4ef18b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "srtp/计划.md",
-                "mode": "source",
-                "source": false
+                "file": "深度学习.pdf"
               },
-              "icon": "lucide-file",
-              "title": "计划"
+              "icon": "lucide-file-text",
+              "title": "深度学习"
             }
           }
         ]
@@ -185,11 +183,11 @@
   },
   "active": "5db5cc342b4ef18b",
   "lastOpenFiles": [
+    "电赛/ros2（OriginRobot）/创建数据集配置文件 (`.yaml`).md",
+    "srtp/计划.md",
     "电赛/ros2（OriginRobot）/模型准备、训练、部署、转换.md",
     "电赛/ros2（OriginRobot）/模型训练参数解释：.md",
     "电赛/ros2（OriginRobot）/核心概念.md",
-    "电赛/ros2（OriginRobot）/创建数据集配置文件 (`.yaml`).md",
-    "srtp/计划.md",
     "大三上/bsp/chapter0.md",
     "srtp",
     "大三上/bsp/作业.md",
