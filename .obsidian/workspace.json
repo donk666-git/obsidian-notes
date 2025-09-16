@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大三上/区块链/启动.md",
+                "file": "大三上/区块链/重置.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "启动"
+              "title": "重置"
             }
           }
         ]
@@ -185,9 +185,9 @@
   },
   "active": "c6d904b7c75a975f",
   "lastOpenFiles": [
+    "大三上/区块链/启动.md",
     "大三上/区块链/重置.md",
     "大三上/区块链/区块链.md",
-    "大三上/区块链/启动.md",
     "大三上/区块链/分工.md",
     "大三上/java/未命名.md",
     "大三上/java/语法.md",
