@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "277aa4266da8cd29",
+        "id": "bcb04e084257d30f",
         "type": "tabs",
         "children": [
           {
-            "id": "5db5cc342b4ef18b",
+            "id": "c6d904b7c75a975f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,10 +183,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5db5cc342b4ef18b",
+  "active": "c6d904b7c75a975f",
   "lastOpenFiles": [
-    "java/语法.md",
+    "markdown/markdown的使用说明.md",
     "markdown/语法.md",
+    "Typora.md",
+    "java/语法.md",
     "markdown",
     "欢迎.md",
     "深度学习.pdf",
@@ -229,8 +231,6 @@
     "电赛/已知模型.md",
     "电赛/模拟电路/二阶滤波.md",
     "电赛/stem32/STM32H750VBT6 CubeMX 配置指南.md",
-    "电赛/stem32/FFT分析（示例程序）.md",
-    "电赛/stem32/FFT（采集信号）.md",
-    "电赛/stem32/FFT.md"
+    "电赛/stem32/FFT分析（示例程序）.md"
   ]
 }
