@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/语法.md",
+                "file": "markdown/语法.md",
                 "mode": "source",
                 "source": false
               },
@@ -185,6 +185,9 @@
   },
   "active": "5db5cc342b4ef18b",
   "lastOpenFiles": [
+    "java/语法.md",
+    "markdown/语法.md",
+    "markdown",
     "欢迎.md",
     "深度学习.pdf",
     "未命名.canvas",
@@ -193,7 +196,6 @@
     "大三上/java/未命名.md",
     "电赛/ros2（OriginRobot）/basic.md",
     "大三上/java",
-    "未命名",
     "电赛/ros2（OriginRobot）/创建数据集配置文件 (`.yaml`).md",
     "srtp/计划.md",
     "电赛/ros2（OriginRobot）/模型准备、训练、部署、转换.md",
@@ -229,7 +231,6 @@
     "电赛/stem32/STM32H750VBT6 CubeMX 配置指南.md",
     "电赛/stem32/FFT分析（示例程序）.md",
     "电赛/stem32/FFT（采集信号）.md",
-    "电赛/stem32/FFT.md",
-    "电赛/stem32/E题数字化语音存储与回放系统.md"
+    "电赛/stem32/FFT.md"
   ]
 }
