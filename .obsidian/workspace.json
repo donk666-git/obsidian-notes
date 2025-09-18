@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程注意事项/大三上.md",
+                "file": "大三上/毛概/readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "大三上"
+              "title": "readme"
             }
           }
         ],
@@ -200,6 +200,9 @@
   },
   "active": "aefa9725a6721063",
   "lastOpenFiles": [
+    "Pasted image 20250918142148.png",
+    "课程注意事项/大三上.md",
+    "大三上/毛概/readme.md",
     "大三上/毛概",
     "大三上/闹该",
     "大三上/java/readme.md",
@@ -240,11 +243,8 @@
     "电赛/ros2（OriginRobot）/创建数据集配置文件 (`.yaml`).md",
     "srtp/计划.md",
     "电赛/ros2（OriginRobot）/模型准备、训练、部署、转换.md",
-    "电赛/ros2（OriginRobot）/模型训练参数解释：.md",
-    "电赛/ros2（OriginRobot）/核心概念.md",
     "srtp",
     "大三上/bsp",
-    "search",
     "image/b555b46047d8d19ba3b30052e7ad2dbc.png",
     "image/Pasted image 20250722143835.png"
   ]
