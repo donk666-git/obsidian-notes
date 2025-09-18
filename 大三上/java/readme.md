@@ -23,6 +23,9 @@ C:\Program Files\Java\jdk-17
 阿里云的LINGMA 和github的 copilot
 
 3.快捷键 创建java项目
+
+4.自动编译
+![[Pasted image 20250918132949.png]]
 #### **方法 1：创建一个 Java 项目（推荐）**
 
 1. 打开 VSCode → **命令面板**（`Ctrl+Shift+P`）→ 输入 `Java: Create Java Project` → 回车
