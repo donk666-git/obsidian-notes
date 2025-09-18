@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大三上/java/readme.md",
+                "file": "课程注意事项/大三上.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "大三上"
             }
           }
         ],
@@ -198,17 +198,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b1ade28452fe63b",
+  "active": "aefa9725a6721063",
   "lastOpenFiles": [
-    "Pasted image 20250918132949.png",
+    "大三上/毛概",
+    "大三上/闹该",
     "大三上/java/readme.md",
+    "大三上/java/语法.md",
+    "大三上/java/环境配置考虑.md",
+    "大三上/java/黄精配置.md",
+    "大三上/java/环境配置考量萨达.md",
+    "image/md语法.pdf",
+    "Pasted image 20250918132949.png",
     "Pasted image 20250918125900.png",
     "Pasted image 20250918104754.png",
     "Pasted image 20250917082256.png",
     "Pasted image 20250917081624.png",
     "Pasted image 20250915104038.png",
     "Pasted image 20250918130531.png",
-    "image/md语法.pdf",
     "Pasted image 20250918131724.png",
     "大三上/嵌入式/readme.md",
     "大三上/bsp/作业.md",
@@ -220,7 +226,6 @@
     "大三上/区块链/启动.md",
     "大三上/区块链/区块链.md",
     "大三上/区块链/分工.md",
-    "大三上/java/语法.md",
     "markdown/语法.md",
     "markdown/markdown的使用说明.md",
     "Typora.md",
@@ -237,15 +242,10 @@
     "电赛/ros2（OriginRobot）/模型准备、训练、部署、转换.md",
     "电赛/ros2（OriginRobot）/模型训练参数解释：.md",
     "电赛/ros2（OriginRobot）/核心概念.md",
-    "大三上/bsp/chapter0.md",
     "srtp",
-    "大三上/bsp/常用英文名词.md",
     "大三上/bsp",
     "search",
-    "().md",
     "image/b555b46047d8d19ba3b30052e7ad2dbc.png",
-    "image/Pasted image 20250722143835.png",
-    "image",
-    "image/Pasted image 20250723204915.png"
+    "image/Pasted image 20250722143835.png"
   ]
 }
