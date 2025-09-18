@@ -12,8 +12,11 @@ C:\Program Files\Java\jdk-17
 
 
 *关于vscode*
+
 ### tab自动补全
 ![[Pasted image 20250918130531.png]]
+## copilot补全
+![[Pasted image 20250918131724.png]]
 #### **方法 1：创建一个 Java 项目（推荐）**
 
 1. 打开 VSCode → **命令面板**（`Ctrl+Shift+P`）→ 输入 `Java: Create Java Project` → 回车
