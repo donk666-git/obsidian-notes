@@ -28,3 +28,5 @@ privacy violation:
 
 perturb 打乱
 adversarial perturbation
+
+optimization 最优化
