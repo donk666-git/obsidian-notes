@@ -31,3 +31,4 @@ adversarial perturbation
 
 optimization 最优化
 utility 效用
+evade 规避
