@@ -13,3 +13,5 @@ poisoning attacks
 membership attack
 model inversion
 model extraction
+
+1.2. both want
