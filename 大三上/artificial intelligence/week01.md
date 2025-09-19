@@ -35,3 +35,4 @@ evade 规避
 gradient 梯度
 certified 经过验证的
 mitigate 缓解
+artifacts 人工的
