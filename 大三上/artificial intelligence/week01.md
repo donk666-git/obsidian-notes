@@ -18,3 +18,7 @@ model extraction
 however, 
 1. manipulate the inference period by creating spam input to bypass the detection
 2.temper with the training data by remove the spam from its folder to inbox
+
+privacy violation:
+3. to ensure whether a email was used to train the model
+4. reconstruct the local model that resemble to the one
