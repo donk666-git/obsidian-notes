@@ -14,4 +14,6 @@ membership attack
 model inversion
 model extraction
 
-1.2. both want
+1.2. they both want induce the wrong prediction from the model
+however, 1. manipulate the inference period by let the spam the detection
+2.temper with the training data
