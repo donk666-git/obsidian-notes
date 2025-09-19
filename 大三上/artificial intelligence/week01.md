@@ -15,5 +15,6 @@ model inversion
 model extraction
 
 1.2. they both want induce the wrong prediction from the model
-however, 1. manipulate the inference period by let the spam the detection
-2.temper with the training data
+however, 
+1. manipulate the inference period by creating spam input to bypass the detection
+2.temper with the training data by remove the spam from its folder to inbox
