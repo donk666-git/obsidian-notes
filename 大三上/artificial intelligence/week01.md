@@ -32,3 +32,5 @@ adversarial perturbation
 optimization 最优化
 utility 效用
 evade 规避
+gradient 梯度
+certified 经过验证的
