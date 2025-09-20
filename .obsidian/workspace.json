@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大三上/artificial intelligence/lecture02.md",
+                "file": "大三上/bsp/信号与系统/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture02"
+              "title": "未命名"
             }
           }
         ],
@@ -200,8 +200,10 @@
   },
   "active": "aefa9725a6721063",
   "lastOpenFiles": [
-    "大三上/artificial intelligence/week01.md",
     "大三上/artificial intelligence/lecture02.md",
+    "大三上/bsp/信号与系统/未命名.md",
+    "大三上/bsp/信号与系统",
+    "大三上/artificial intelligence/week01.md",
     "大三上/artificial intelligence/readme.md",
     "大三上/bsp/常用英文名词.md",
     "LATEX/BSP.md",
@@ -243,9 +245,7 @@
     "Typora.md",
     "java/语法.md",
     "markdown",
-    "欢迎.md",
     "深度学习.pdf",
-    "未命名.canvas",
-    "大三上/java"
+    "未命名.canvas"
   ]
 }
