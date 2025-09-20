@@ -36,3 +36,4 @@ gradient 梯度
 certified 经过验证的
 mitigate 缓解
 artifacts 人工的
+**Characterizing:​**​ 表征，描述（其特性）
