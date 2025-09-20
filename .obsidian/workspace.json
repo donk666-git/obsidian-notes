@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大三上/artificial intelligence/readme.md",
+                "file": "大三上/artificial intelligence/lecture02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "lecture02"
             }
           }
         ],
@@ -214,6 +214,7 @@
   },
   "active": "3c4e3e6f03e8f0f9",
   "lastOpenFiles": [
+    "大三上/artificial intelligence/readme.md",
     "大三上/artificial intelligence/lecture02.md",
     "大三上/java/变量类型.md",
     "大三上/java/语法.md",
@@ -224,7 +225,6 @@
     "大三上/bsp/信号与系统/未命名.md",
     "大三上/bsp/信号与系统",
     "大三上/artificial intelligence/week01.md",
-    "大三上/artificial intelligence/readme.md",
     "大三上/bsp/常用英文名词.md",
     "LATEX/BSP.md",
     "大三上/成像/readme.md",

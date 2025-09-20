@@ -1,6 +1,7 @@
 clustering 聚类
 categoris 分类
 numerical classifier function 数量分类词
+empirical 惊艳的
 
 # ML： machine learning types
 ### ***supervised 
