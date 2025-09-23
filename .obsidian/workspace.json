@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "作业"
             }
+          },
+          {
+            "id": "9e9f571aa907ddf3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250923141155.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250923141155"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -212,9 +224,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b1ade28452fe63b",
+  "active": "9e9f571aa907ddf3",
   "lastOpenFiles": [
     "大三上/bsp/作业.md",
+    "image/md语法.pdf",
     "Pasted image 20250923141155.png",
     "大三上/bsp/常用英文名词.md",
     "大三上/java/变量类型.md",
@@ -248,7 +261,6 @@
     "大三上/闹该",
     "大三上/java/黄精配置.md",
     "大三上/java/环境配置考量萨达.md",
-    "image/md语法.pdf",
     "Pasted image 20250918132949.png",
     "Pasted image 20250918125900.png",
     "大三上/嵌入式/readme.md",
