@@ -19,11 +19,11 @@
 
 - **Pmod连接器**: 在PCB上放置一个或两个2x6针的Pmod公头连接器，用于连接ZCU102。您需要根据Lepton的SPI/I2C需求和SIM800L的UART需求，规划好引脚分配。
     
-- **Lepton接口**: Lepton本身需要一个转接板（Breakout Board）。您有两个选择：
+- **Lepton接口**: Lepton本身需要一个转接板（Breakout Board）。有两个选择：
     
     - **方案A (推荐)**: 在定制PCB上，设计一个母座，让Lepton的转接板可以直接插在您的PCB上。
         
-    - **方案B**: 直接将Lepton转接板焊接到您的定制PCB上。
+    - **方案B**: 直接将Lepton转接板焊接到您的定制PCB上。（自己焊风险大）
         
 - **SIM800L接口**: 在PCB上为SIM800L模块预留插针或母座，用于连接其UART（TX, RX, GND）及电源引脚。
     
