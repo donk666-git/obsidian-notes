@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大三上/java/变量类型.md",
+                "file": "大三上/java/修饰符.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "变量类型"
+              "title": "修饰符"
             }
           }
         ],
@@ -229,13 +229,15 @@
   "active": "9e9f571aa907ddf3",
   "lastOpenFiles": [
     "大三上/java/语法.md",
+    "大三上/java/修饰符.md",
+    "大三上/java/未命名 1.md",
+    "大三上/java/变量类型.md",
     "大三上/bsp/作业.md",
     "image/md语法.pdf",
     "Pasted image 20250923150859.png",
     "大三上/bsp/信号与系统/未命名.md",
     "Pasted image 20250923141155.png",
     "大三上/bsp/常用英文名词.md",
-    "大三上/java/变量类型.md",
     "大三上/java/基本数据类型.md",
     "大三上/java/环境配置考虑.md",
     "大三上/java/readme.md",
@@ -272,7 +274,6 @@
     "大三上/artificial intelligence",
     "大三上/区块链/启动.md",
     "大三上/区块链/区块链.md",
-    "大三上/区块链/分工.md",
     "未命名.canvas"
   ]
 }
