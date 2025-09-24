@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "srtp/计划.md",
+                "file": "srtp/zcu102.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "计划"
+              "title": "zcu102"
             }
           }
         ],
@@ -228,6 +228,8 @@
   },
   "active": "9e9f571aa907ddf3",
   "lastOpenFiles": [
+    "srtp/计划.md",
+    "srtp/zcu102.md",
     "大三上/java/修饰符.md",
     "Pasted image 20250924145904.png",
     "大三上/java/语法.md",
@@ -272,7 +274,6 @@
     "search/google.md",
     "大三上/区块链/重置.md",
     "大三上/artificial intelligence",
-    "大三上/区块链/启动.md",
     "未命名.canvas"
   ]
 }
