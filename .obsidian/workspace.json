@@ -53,12 +53,14 @@
             "id": "9e9f571aa907ddf3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "srtp/plan.pdf"
+                "file": "srtp/转接板pcb.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "plan"
+              "icon": "lucide-file",
+              "title": "转接板pcb"
             }
           }
         ],
@@ -227,12 +229,13 @@
   "active": "9e9f571aa907ddf3",
   "lastOpenFiles": [
     "srtp/plan.md",
-    "srtp/plan.pdf",
     "srtp/independent power necessity.md",
+    "srtp/转接板pcb.md",
+    "srtp/计划.md",
+    "srtp/zcu102.md",
+    "srtp/plan.pdf",
     "srtp/independent power necessity.pdf",
     "Pasted image 20250924191150.png",
-    "srtp/zcu102.md",
-    "srtp/计划.md",
     "大三上/java/修饰符.md",
     "Pasted image 20250924145904.png",
     "大三上/java/语法.md",
