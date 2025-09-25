@@ -226,8 +226,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e9f571aa907ddf3",
+  "active": "af363a451edd0e30",
   "lastOpenFiles": [
+    "git cvs",
     "srtp/转接板pcb.pdf",
     "srtp/plan.md",
     "srtp/plan.pdf",
@@ -272,7 +273,6 @@
     "Pasted image 20250918143308.png",
     "课程注意事项/大三上.md",
     "大三上/毛概",
-    "大三上/闹该",
     "大三上/java/黄精配置.md",
     "未命名.canvas"
   ]
