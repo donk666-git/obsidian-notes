@@ -229,11 +229,12 @@
   "active": "9e9f571aa907ddf3",
   "lastOpenFiles": [
     "srtp/plan.md",
-    "srtp/independent power necessity.md",
-    "srtp/转接板pcb.md",
-    "srtp/计划.md",
-    "srtp/zcu102.md",
     "srtp/plan.pdf",
+    "srtp/计划.md",
+    "srtp/转接板pcb.md",
+    "srtp/independent power necessity.md",
+    "image/md语法.pdf",
+    "srtp/zcu102.md",
     "srtp/independent power necessity.pdf",
     "Pasted image 20250924191150.png",
     "大三上/java/修饰符.md",
@@ -242,7 +243,6 @@
     "大三上/java/未命名 1.md",
     "大三上/java/变量类型.md",
     "大三上/bsp/作业.md",
-    "image/md语法.pdf",
     "Pasted image 20250923150859.png",
     "大三上/bsp/信号与系统/未命名.md",
     "Pasted image 20250923141155.png",
@@ -273,7 +273,6 @@
     "大三上/毛概",
     "大三上/闹该",
     "大三上/java/黄精配置.md",
-    "大三上/java/环境配置考量萨达.md",
     "未命名.canvas"
   ]
 }
