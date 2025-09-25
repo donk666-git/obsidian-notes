@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "srtp/转接板pcb.md",
+                "file": "git cvs/version control.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "转接板pcb"
+              "title": "version control"
             }
           }
         ],
@@ -226,14 +226,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af363a451edd0e30",
+  "active": "9e9f571aa907ddf3",
   "lastOpenFiles": [
+    "git cvs/三方.md",
+    "git cvs/version control.md",
+    "srtp/转接板pcb.md",
     "git cvs",
     "srtp/转接板pcb.pdf",
     "srtp/plan.md",
     "srtp/plan.pdf",
     "srtp/independent power necessity.md",
-    "srtp/转接板pcb.md",
     "srtp/zcu102.md",
     "srtp/计划.md",
     "image/md语法.pdf",
@@ -272,8 +274,6 @@
     "Pasted image 20250918143320.png",
     "Pasted image 20250918143308.png",
     "课程注意事项/大三上.md",
-    "大三上/毛概",
-    "大三上/java/黄精配置.md",
     "未命名.canvas"
   ]
 }
